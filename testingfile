@@ -1,3 +1,7 @@
 git clone is done 
 
 git fetch
+
+git pull is done
+
+git pull = git fetch + modifing local files
